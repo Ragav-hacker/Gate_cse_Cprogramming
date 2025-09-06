@@ -2,4 +2,5 @@
 void main()
 {
 printf("%d",2);
+printf("printed");
 }
